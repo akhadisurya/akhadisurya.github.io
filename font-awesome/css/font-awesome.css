@@ -208,7 +208,7 @@
   content: "\f00d";
 }
 .fa-search-plus:before {
-  content: "\f00e";
+  /*content: "\f00e";*/
 }
 .fa-search-minus:before {
   content: "\f010";
